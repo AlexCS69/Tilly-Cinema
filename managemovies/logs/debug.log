@@ -1,0 +1,23 @@
+passhere-The Batman
+passhere-The Batman
+passhere-The Batman
+passhere-The Batman
+passhere-The Batman
+passhere-The Batman
+passhere-The Batman
+insert into producttb(product_name,product_price,product_image,duration,daterelease,category,des) values
+   ('The Batman',20,'C:\xampp\htdocs\Tilly-LLC\images\mv_The Batman.jpg',2 hours,'20220208','1','batman ')
+insert into producttb(product_name,product_price,product_image,duration,daterelease,category,des) values
+   ('The Batman',20,'C:\xampp\htdocs\Tilly-LLC\images\mv_The Batman.jpg',2 hours,'20220208','1','batman ')
+insert into producttb(product_name,product_price,product_image,duration,daterelease,category,des) values
+   ('The Batman',20,'C:\xampp\htdocs\Tilly-LLC\images\mv_The Batman.jpg',2 hours,'20220208','1','batman ')
+insert into producttb(product_name,product_price,product_image,duration,daterelease,category,des) values
+   ('The Batman',20,'C:\xampp\htdocs\Tilly-LLC\images\mv_The Batman.jpg',2 hours,'20220208','1','batman ')
+insert into producttb(product_name,product_price,product_image,duration,daterelease,category,des) values
+   ('The Batman',20,'mv_The Batman.jpg',140,'20220208','Action','batman ')
+insert into producttb(product_name,product_price,product_image,duration,daterelease,category,des) values
+   ('Morbius',20,'mv_Morbius.jpg',140,'20220208','Action','bat')
+insert into producttb(product_name,product_price,product_image,duration,daterelease,category,des) values
+   ('The Batman',20,'mv_The Batman.jpg',140,'20220208','Action','')
+insert into producttb(product_name,product_price,product_image,duration,daterelease,category,des) values
+   ('Clifford',20,'mv_Clifford.jpg',140,'20220208','Comedy','')

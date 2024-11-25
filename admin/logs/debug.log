@@ -1,0 +1,36 @@
+btnsave-
+select a.order_id,a.account_id,b.first_name, b.last_name,a.total_amt,a.order_date,a.delivered_date, b.email,b.mobile
+from orders a, user_info b 
+where a.account_id=b.user_id and a.order_id=51 order by b.first_name, b.last_name,a.order_id
+select a.order_id,a.account_id,b.first_name, b.last_name,a.total_amt,a.order_date,a.delivered_date, b.email,b.mobile
+from orders a, user_info b 
+where a.account_id=b.user_id and a.order_id=51 order by b.first_name, b.last_name,a.order_id
+select a.order_id,a.account_id,b.first_name, b.last_name,a.total_amt,a.order_date,a.delivered_date, b.email,b.mobile
+from orders a, user_info b 
+where a.account_id=b.user_id and a.order_id=52 order by b.first_name, b.last_name,a.order_id
+btnsave-
+btnsave-
+select a.order_id,a.account_id,b.first_name, b.last_name,a.total_amt,a.order_date,a.delivered_date, b.email,b.mobile
+    from orders a, user_info b 
+    where a.account_id=b.user_id and a.order_id=52 order by b.first_name, b.last_name,a.order_id
+select a.order_id,a.account_id,b.first_name, b.last_name,a.total_amt,a.order_date,a.delivered_date, b.email,b.mobile
+    from orders a, user_info b 
+    where a.account_id=b.user_id and a.order_id=52 order by b.first_name, b.last_name,a.order_id
+order_id-52
+pass4x-
+btnsave-52
+select a.order_id,a.account_id,b.first_name, b.last_name,a.total_amt,a.order_date,a.delivered_date, b.email,b.mobile
+    from orders a, user_info b 
+    where a.account_id=b.user_id and a.order_id=51 order by b.first_name, b.last_name,a.order_id
+order_id-51
+pass4x-
+btnsave-51
+select a.order_id,a.account_id,b.first_name, b.last_name,a.total_amt,a.order_date,a.delivered_date, b.email,b.mobile
+    from orders a, user_info b 
+    where a.account_id=b.user_id and a.order_id=51 order by b.first_name, b.last_name,a.order_id
+select a.order_id,a.account_id,b.first_name, b.last_name,a.total_amt,a.order_date,a.delivered_date, b.email,b.mobile
+    from orders a, user_info b 
+    where a.account_id=b.user_id and a.order_id=51 order by b.first_name, b.last_name,a.order_id
+select a.order_id,a.account_id,b.first_name, b.last_name,a.total_amt,a.order_date,a.delivered_date, b.email,b.mobile
+    from orders a, user_info b 
+    where a.account_id=b.user_id and a.order_id=52 order by b.first_name, b.last_name,a.order_id
